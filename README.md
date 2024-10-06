@@ -34,6 +34,7 @@ Make sure you have the following installed:
     ```
 
 5. **Access the Application:**
+
 The application will be running on http://localhost:8000.
 Swagger UI: You can view the API documentation and test the endpoints using Swagger UI:
     ```
@@ -41,6 +42,7 @@ Swagger UI: You can view the API documentation and test the endpoints using Swag
     ```
 
 4. **Testing:**
+
 Run app and then execute the following command:
     ```
     docker-compose exec app pytest
