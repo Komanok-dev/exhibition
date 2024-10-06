@@ -1,0 +1,93 @@
+{
+    "breeds": [
+      { "id": 1, "name": "Siamese" },
+      { "id": 2, "name": "Maine Coon" },
+      { "id": 3, "name": "Bengal" },
+      { "id": 4, "name": "Persian" },
+      { "id": 5, "name": "Sphynx" },
+      { "id": 6, "name": "Ragdoll" },
+      { "id": 7, "name": "British Shorthair" }
+    ],
+    "cats": [
+      {
+        "id": 1,
+        "name": "Whiskers",
+        "color": "Brown",
+        "age": 12,
+        "description": "Playful and friendly kitten.",
+        "breed_id": 1
+      },
+      {
+        "id": 2,
+        "name": "Luna",
+        "color": "White",
+        "age": 24,
+        "description": "A gentle and loving companion.",
+        "breed_id": 2
+      },
+      {
+        "id": 3,
+        "name": "Simba",
+        "color": "Orange",
+        "age": 36,
+        "description": "Loves to explore and climb.",
+        "breed_id": 3
+      },
+      {
+        "id": 4,
+        "name": "Bella",
+        "color": "Gray",
+        "age": 18,
+        "description": "Calm and affectionate cat.",
+        "breed_id": 4
+      },
+      {
+        "id": 5,
+        "name": "Shadow",
+        "color": "Black",
+        "age": 30,
+        "description": "Energetic and playful.",
+        "breed_id": 5
+      },
+      {
+        "id": 6,
+        "name": "Milo",
+        "color": "Cream",
+        "age": 6,
+        "description": "Young and curious kitten.",
+        "breed_id": 6
+      },
+      {
+        "id": 7,
+        "name": "Chloe",
+        "color": "Calico",
+        "age": 42,
+        "description": "Loves to nap in the sun.",
+        "breed_id": 7
+      },
+      {
+        "id": 8,
+        "name": "Tiger",
+        "color": "Striped Brown",
+        "age": 20,
+        "description": "A brave and adventurous cat.",
+        "breed_id": 1
+      },
+      {
+        "id": 9,
+        "name": "Oreo",
+        "color": "Black and White",
+        "age": 15,
+        "description": "Playful and loves to chase toys.",
+        "breed_id": 4
+      },
+      {
+        "id": 10,
+        "name": "Coco",
+        "color": "Chocolate",
+        "age": 28,
+        "description": "Loyal and very friendly.",
+        "breed_id": 2
+      }
+    ]
+  }
